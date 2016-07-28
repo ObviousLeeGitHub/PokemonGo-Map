@@ -1,0 +1,6 @@
+{
+    "require": {
+        "maknz/slack": "^1.7",
+        "jimmiw/php-time-ago": "*"
+    }
+}
